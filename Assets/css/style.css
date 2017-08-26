@@ -1,0 +1,16 @@
+html, body{
+    background-image: url("../images/canada_flag_leaves.png");
+}
+
+.jumbotron{
+    background-color: crimson !important;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.questions{
+    background-color: white;
+    text-align: center;
+    
+}

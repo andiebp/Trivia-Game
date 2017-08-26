@@ -1,0 +1,52 @@
+[
+    {
+        "question": "How many oceans border Canada?",
+        "answer": "Three",
+        "others": ["One", "Four", "None"]
+    },
+    {
+        "question": "What is Canada's National sport?",
+        "answer": "Hockey",
+        "others": ["Curling", "Skiing", "Volleyball"]
+    },
+    {
+        "question": "What is the Capital of Canada?",
+        "answer": "Ottawa",
+        "others": ["Vancouver", "St. John's", "Toronto"]
+    },
+    {
+        "question": "What is in the center of the canadian flag?",
+        "answer": "Maple Leaf",
+        "others": ["Beaver", "Moose", "Birch Lead"]
+    },
+    {
+        "question": "Which province of Canada has a predominantly French population?",
+        "answer": "Quebec",
+        "others": ["British Columbia", "Ontario", "Nova Scotia"]
+    },
+    {
+        "question": "True or False; Canada is the world's second largest country, by land mass?",
+        "answer": "True",
+        "others": ["False"]
+    },
+    {
+        "question": "What is the name of the most recent territory to join Canada?",
+        "answer": "Nunavut",
+        "others": ["Northwest Territories", "Labrador", "Yukon"]
+    },
+    {
+        "question": "What is the Canadian $1 coin called?",
+        "answer": "Loonie",
+        "others": ["Beaver Tail", "Moose Dropping", "Canuck"]
+    },
+    {
+        "question": "How many timezones cover the country?",
+        "answer": "6",
+        "others": ["2", "12", "1"]
+    },
+    {
+        "question": "In what year did Canada become a country?",
+        "answer": "1867",
+        "others": ["1786", "1682", "1912"]
+    },
+]
